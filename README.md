@@ -247,8 +247,9 @@ The project builds directly on these works. Full citations are in the accompanyi
 
 ## Authors
 
-- **Vaishnavi** — E23CSEU1537 — architecture, Ollama integration, benchmarking, re-ranker
-- **Aditi Singh** — E23CSEU1484 — chunking, hybrid search, prompting, evaluation
+- **Vaishnavi** 
+- **Aditi Singh** 
+- **Deep Bansal**
 
 **Faculty mentor:** Richa Sharma
 **Institution:** School of Computer Science Engineering and Technology, Bennett University

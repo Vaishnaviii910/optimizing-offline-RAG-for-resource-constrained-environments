@@ -255,7 +255,3 @@ The project builds directly on these works. Full citations are in the accompanyi
 **Institution:** School of Computer Science Engineering and Technology, Bennett University
 
 ---
-
-## License
-
-MIT — see `LICENSE` if present, otherwise consider this the placeholder.
